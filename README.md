@@ -1,2 +1,1 @@
-"# mandelbrotit" 
-"# mandelbrotit" 
+"# mandelbrotit"
