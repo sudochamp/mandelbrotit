@@ -40,5 +40,13 @@ $navbar-light-icon-color: rgba($primary, .75);
     font-size: 5rem !important;
 }
 
+.pt-10 {
+    padding-top: 9rem !important;
+}
+
+body {
+    overflow-x: hidden;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 

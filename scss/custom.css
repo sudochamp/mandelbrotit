@@ -27,6 +27,14 @@
   font-size: 5rem !important;
 }
 
+.pt-10 {
+  padding-top: 9rem !important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
 /*!
  * Bootstrap  v5.3.2 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
